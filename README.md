@@ -1,4 +1,3 @@
-# ApnaCollege-Demo
+# Muhammad Ihtesham Ul Haq
 This is my first Git Repository
-
-1st change
+Pratice
